@@ -59,8 +59,8 @@ links:
 
     # GITHUB
   - Name: GitHub
-    # URL: http://github.com
-    Username: harsh98trivedi
+    URL: http://github.com
+    Username: Flumuffel
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
@@ -170,8 +170,8 @@ links:
 
     # SPOTIFY
   - Name: Spotify
-    # URL: http://open.spotify.com/user
-    Username: 314ihryk3edvtusti6il3oy3x5da
+    URL: http://open.spotify.com/user
+    Username: Flumuffel
     Color: '#1DB954'
     Icon-Class: fab fa-spotify
 
